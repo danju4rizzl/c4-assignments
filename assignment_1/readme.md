@@ -1,9 +1,11 @@
 # Instructions
 
-The `run()`function in the `src/main.rs` prints in the terminal whether an integer is an even number or an odd number given a range of numbers.
+The `run()` function in the `src/main.rs` prints in the terminal whether an integer is an even number or an odd number given a range of numbers.
  
  It accepts two parameters of type `u32`:
+
  `start`: start value of range
+
  `limit`: end value of range
  
  ## Example:
